@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/izuru775/sit725-prac2.1-linkedlist#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
